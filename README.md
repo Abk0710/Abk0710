@@ -18,7 +18,7 @@ IT Enthusiast
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 
 
-(![LeetCode Stats](https://leetcard.jacoblin.cool/abhi_shek_2807?theme=dark&font=Marcellus&ext=contest))
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhi_shek_2807?theme=dark&font=Marcellus&ext=contest)
 <!--
 **Abk0710/Abk0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
